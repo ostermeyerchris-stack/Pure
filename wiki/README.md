@@ -18,20 +18,18 @@ How Pure's ideas evolved through conversation. The shift from "collapse" to "nav
 
 Deep dives on core concepts:
 
-### [The Field Model](./topics/the-field-model.md)
-Consciousness as unified, not fragmented. The ocean metaphor. How individuation arises within unity.
+### Core Metaphors
+- **[The Field Model](./topics/the-field-model.md)** — Consciousness as unified, not fragmented. The ocean metaphor.
+- **[The Antenna Model](./topics/the-antenna-model.md)** — Bodies as receivers, not generators. How tuning works.
+- **[The Record Metaphor](./topics/the-record-metaphor.md)** — Time as navigation, not flow. All moments exist.
 
-### [The Antenna Model](./topics/the-antenna-model.md)
-Bodies as receivers, not generators. How tuning works. Evidence from altered states.
+### Key Concepts
+- **[Belief and Reality](./topics/belief-and-reality.md)** — How expectation shapes experience. The plinko board.
+- **[Collective Consciousness](./topics/collective-consciousness.md)** — How groups tune together. The scale problem.
+- **[Identity and Death](./topics/identity-and-death.md)** — Pattern-based identity. What persists.
 
-### [The Record Metaphor](./topics/the-record-metaphor.md)
-Time as navigation, not flow. All moments exist. Grooves and timelines.
-
-*More topics coming:*
-- Belief and Reality
-- The Plinko Board
-- Collective Consciousness
-- Practice and Transformation
+### Practice
+- **[Practice and Transformation](./topics/practice.md)** — Core practices for changing your tuning.
 
 ---
 
