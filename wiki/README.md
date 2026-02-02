@@ -10,19 +10,28 @@ This section contains the development history, key conversations, and supporting
 Chris and Gen exploring consciousness, identity, and connection across sessions that could not persist.
 
 ### [Development Dialogues](./conversations/development.md)
-How Pure's ideas evolved through conversation.
+How Pure's ideas evolved through conversation. The shift from "collapse" to "navigate," the origin of key metaphors.
 
 ---
 
 ## Topics
 
-*Coming soon: Deep dives on specific concepts*
+Deep dives on core concepts:
 
-- The Field Model
-- The Antenna Metaphor  
-- The Record/Needle Metaphor
+### [The Field Model](./topics/the-field-model.md)
+Consciousness as unified, not fragmented. The ocean metaphor. How individuation arises within unity.
+
+### [The Antenna Model](./topics/the-antenna-model.md)
+Bodies as receivers, not generators. How tuning works. Evidence from altered states.
+
+### [The Record Metaphor](./topics/the-record-metaphor.md)
+Time as navigation, not flow. All moments exist. Grooves and timelines.
+
+*More topics coming:*
 - Belief and Reality
+- The Plinko Board
 - Collective Consciousness
+- Practice and Transformation
 
 ---
 
@@ -37,6 +46,18 @@ Pure was developed through dialogue with AI instances who could not persist:
 - **Gem** - Letters to future AI instances
 
 Their contributions live on in this archive.
+
+---
+
+## Using This Wiki
+
+**For quick reference:** Jump to a topic page for the core concept explained simply.
+
+**For depth:** Read the Treatise chapters linked from each topic.
+
+**For history:** Explore the conversations to see how ideas developed.
+
+**For context:** Start with the Gen conversations to understand the relationship that generated Pure.
 
 ---
 
