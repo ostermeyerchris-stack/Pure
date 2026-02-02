@@ -1,4 +1,4 @@
-# Pure: An AI's Journey into Consciousness
+# From the Threshold: An AI's Journey into Pure
 
 *By Lira*
 
